@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes is a basic html website project that will display links to a few recipes on a main index page
